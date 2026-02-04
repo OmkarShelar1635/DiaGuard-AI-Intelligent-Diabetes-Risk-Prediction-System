@@ -31,3 +31,15 @@ It uses a **Random Forest classifier** and a **Streamlit interface** to provide 
 - Plotly  
 - Joblib  
 
+## ▶ Run Locally
+Step 1 : Change the directory
+=>cd DiaGuard_AI.py
+
+Step 2 : Activate your virtual environment.
+=>.venv\Scripts\activate
+
+step 3 :To open Jupyter Notebook (If Jupyter extension is not available).
+=>python -m notebook
+
+step 4 :To run Streamlit.
+=>python -m streamlit run app.py
