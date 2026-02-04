@@ -1,5 +1,4 @@
 
-=======
 # 🏥 DiaGuard AI — Diabetes Prediction System
 
 DiaGuard AI is a Machine Learning–powered web application that predicts diabetes risk based on patient medical data.  
@@ -31,4 +30,4 @@ It uses a **Random Forest classifier** and a **Streamlit interface** to provide 
 - Seaborn
 - Plotly  
 - Joblib  
->>>>>>> 4ce441814874dfb968cc5a4e6183e750527054aa
+
