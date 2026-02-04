@@ -1,0 +1,8 @@
+numpy    #------  data handling
+pandas   #---------^   
+scikit-learn    #machine learning library
+matplotlib  #----visualization
+seaborn     #-----^
+joblib   #saving the model
+plotly    #-------web interface
+streamlit #-------^
