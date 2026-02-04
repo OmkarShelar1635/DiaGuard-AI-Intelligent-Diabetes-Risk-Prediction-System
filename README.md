@@ -1,15 +1,28 @@
-Step 1: Activate your virtual environment.
-=>.venv\Scripts\activate
+# 🏥 DiaGuard AI — Diabetes Prediction System
 
-step2 :To open Jupyter Notebook (If Jupyter extension is not available).
-=>python -m notebook
+DiaGuard AI is a Machine Learning–powered web application that predicts diabetes risk based on patient medical data.  
+It uses a **Random Forest classifier** and a **Streamlit interface** to provide real-time predictions, probability scores, visual insights, and basic health recommendations.
 
-step3 :To run Streamlit.
-=>python -m streamlit run app.py
 
-1️⃣ Data Collection
-2️⃣ Data Analysis (EDA) 
-3️⃣ Data Preprocessing
-4️⃣ Model Training
-5️⃣ Model Evaluation
-6️⃣ Model Saving / Deployment
+---
+
+## 🚀 Features
+
+- ✅ Predicts diabetes risk (Diabetic / Non-Diabetic)
+- 📊 Shows probability scores with gauge visualization
+- ⚖️ Highlights risk factors and positive health indicators
+- 🧠 Uses Random Forest for robust classification
+- 🖥️ Interactive Streamlit UI
+- 💾 Trained model saved with Joblib
+- 📋 Medical-style recommendations and disclaimer
+
+---
+
+## 🛠 Tech Stack
+
+- Python  
+- Streamlit  
+- Scikit-learn  
+- Pandas / NumPy  
+- Plotly  
+- Joblib  
