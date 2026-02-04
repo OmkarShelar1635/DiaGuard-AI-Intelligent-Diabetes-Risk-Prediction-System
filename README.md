@@ -8,7 +8,7 @@ step3 :To run Streamlit.
 =>python -m streamlit run app.py
 
 1️⃣ Data Collection
-2️⃣ Data Analysis (EDA) ← ✅ THIS IS WHAT YOU ASKED
+2️⃣ Data Analysis (EDA) 
 3️⃣ Data Preprocessing
 4️⃣ Model Training
 5️⃣ Model Evaluation
