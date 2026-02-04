@@ -23,6 +23,9 @@ It uses a **Random Forest classifier** and a **Streamlit interface** to provide 
 - Python  
 - Streamlit  
 - Scikit-learn  
-- Pandas / NumPy  
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 - Plotly  
 - Joblib  
